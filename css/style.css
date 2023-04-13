@@ -490,7 +490,9 @@ footer {
 .u-center-text {
   text-align: center !important;
 }
-
+.u-intend {
+  text-intend: 5rem;
+}
 .u-margin-bottom-big {
   margin-bottom: 8rem !important;
 }
