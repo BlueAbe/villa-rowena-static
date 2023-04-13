@@ -20,10 +20,12 @@ a {
   opacity: 0;
 }
 h1 {
-  font-size: 2.4rem;
-  text-align: center;
-  font-weight: 300;
-  font-style: italic;
+    font-family: "Dancing Script", cursive;
+    font-size: 4.4rem;
+    text-align: center;
+    font-weight: 300;
+    font-style: italic;
+    letter-spacing: 10px;
 }
 h2 {
   font-size: 2.4rem;
