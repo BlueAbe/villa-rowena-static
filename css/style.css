@@ -127,6 +127,12 @@ footer {
   text-align: justify;
   animation: showText 1s ease-out;
 }
+.villa-text {
+  font-weight:bold;
+  font-family: 'Dancing Script';
+  font-size: 2.5rem;
+letter-spacing: 4px;
+}
 .weekend-text {
   text-align: center;
   font-size: 2rem;
@@ -707,6 +713,12 @@ footer {
     margin: 70px 50px;
     font-size: 1.2rem;
   }
+  .villa-text {
+    font-weight:bold;
+    font-family: 'Dancing Script';
+    font-size: 2rem;
+  letter-spacing: 3px;
+  }
   .btn-5 {
     padding-left: 5rem;
   }
@@ -868,6 +880,12 @@ footer {
   .show-text {
     margin: 30px 20px;
     font-size: 1rem;
+  }
+  .villa-text {
+    font-weight:bold;
+    font-family: 'Dancing Script';
+    font-size: 1rem;
+  letter-spacing: 2px;
   }
   .sub-gallery {
     width: 100%;
