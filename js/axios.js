@@ -46,7 +46,7 @@ if (dataForm)
     form.append("message", messageTemplate);
     form.append("from", "Villa Rowena");
     form.append("subject", "Wiadomość z formularza");
-    // form.append("receiver", "villa.rowena@onet.pl");
-    form.append("receiver", "andrzej.jan.jaworski@gmail.com");
+    form.append("receiver", "villa.rowena@onet.pl");
+    //form.append("receiver", "andrzej.jan.jaworski@gmail.com");
     updateSettings(form);
   });
